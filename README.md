@@ -18,7 +18,8 @@ npm run start
 
 ## Technologies & Frameworks
 
-- [Create React App](https://facebook.github.io/create-react-app/)
-- [React.js](https://reactjs.org/)
 - [BaconIpsum](https://baconipsum.com/)
+- [Create React App](https://facebook.github.io/create-react-app/)
+- [Github Actions](https://docs.github.com/en/actions)
+- [React.js](https://reactjs.org/)
 - [React-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
